@@ -1,0 +1,80 @@
+.branchContainer {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: auto;
+  margin-bottom: 80px;
+}
+.branchTitle {
+  font-family: "Urbanist", sans-serif;
+  font-weight: 800;
+  font-size: 48px;
+  text-align: center;
+  color: #3e4043;
+  margin: 60px 0;
+}
+.branchRow {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.branchColumn {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center;
+  justify-content: flex-start;
+}
+.branchCol {
+  display: flex;
+  align-items: flex-start;
+  margin: 0px 30px 20px 20px;
+}
+.branchColAddress{
+  margin-left: 60px;
+}
+@media(max-width: 1011px) {
+  .branchColAddress {
+    margin-left: 0;
+  }
+}
+.branchButton {
+  display: flex;
+  flex-direction: row;
+  text-align: start;
+  align-items: center;
+  width: 270px;
+  height: 75px;
+  border-radius: 20px;
+  border: none;
+  margin: 10px 0;
+  background-color: white;
+  border: 1px solid #bebebe;
+}
+.branchButton:hover {
+  background-color: #ffc339;
+}
+.branchButton:focus {
+  background-color: #ffc339;
+}
+.branchIcon {
+  font-size: 45px;
+  color: #ffc339;
+}
+.branchButton:focus .branchIcon {
+  color: white;
+}
+.branchButton:hover .branchIcon {
+  color: white;
+}
+.branchBtnTitle {
+  font-size: 18px;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 800;
+}
+.branchBtnTitleMini {
+  font-size: 14px;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 400;
+}
