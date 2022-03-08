@@ -2,8 +2,8 @@
 import styled from 'styled-components'
 const FoodProperty = styled.div`
 	transform: scale(${size => (size ? 1 : 1)});
-	max-width: 400px;
-	margin: 3px 160px;
+	max-width: 600px;
+	margin: 3px 12%;
 
 	.food-property-card{
 		display: flex;
@@ -16,11 +16,6 @@ const FoodProperty = styled.div`
 		justify-self: center;
 		grid-area: img;
 	}
-	// .foodPropertyRow{
-	// 	border: 2px solid red;
-	// 	display: flex;
-	// 	flex-direction: row;
-	// }
 	.recommend {
 		text-align: center;
 		border-radius: 18px;
@@ -51,7 +46,7 @@ const FoodProperty = styled.div`
 		color: #a4a4a4;
 		grid-area: data;
 		font-size: 11px;
-		width: 300px;
+		max-width: 450px;
 	}
 	.line {
 		max-width: 60px;
@@ -59,9 +54,7 @@ const FoodProperty = styled.div`
 		border-top: 1px solid #a4a4a4;
 	}
 	@media screen and (max-width: 900px) {
-		.food-property{
-			margin: 3px auto;
-		}
+		margin: 3px auto;
 		grid-template-areas:
 			'img img img '
 			'rec rec p'

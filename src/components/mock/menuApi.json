@@ -8,47 +8,47 @@
       {
         "id": 1,
         "subtitle": "Chicken Sandwiches",
-        "price": "£ 5.95",
+        "price": "£ 4.70",
         "description":
           "Chicken sandwich, served in a bun with salad & sauces of your choice."
       },
       {
         "id": 2,
         "subtitle": "Special Chicken Sandwich",
-        "price": "£ 5.95",
+        "price": "£ 6.70",
         "description":
           "Special chicken sandwich served with doner, served in a bun with salad & sauces of your choice."
       },
       {
         "id": 3,
         "subtitle": "Hawaiian Chicken Sandwich",
-        "price": "£ 5.95",
+        "price": "£ 5.70",
         "description":
           "Chicken sandwich with pineapple & cheese, served in a bun with salad & sauces of your choice."
       },
       {
         "id": 4,
         "subtitle": "Chicken Nuggets",
-        "price": "£ 5.95",
+        "price": "£ 4.00",
         "description": "Available as 8pcs."
       },
       {
         "id": 5,
         "subtitle": "Chicken Nuggets & Chips",
-        "price": "£ 5.95",
+        "price": "£ 6.00",
         "description": "Available as 8pcs."
       },
       {
         "id": 6,
         "subtitle": "Grill Chicken Burger",
-        "price": "£ 5.95",
+        "price": "£ 4.70",
         "description":
           "Grill chicken burger, served with sauce & salad of your choice."
       },
       {
         "id": 7,
         "subtitle": "Chicken Salad",
-        "price": "£ 5.95",
+        "price": "£ 6.50",
         "description":
           "Chicken sandwich, served in a bun with salad & sauces of your choice."
       }
@@ -61,47 +61,47 @@
       {
         "id": 1,
         "subtitle": "Chicken Sandwiches",
-        "price": "£ 5.95",
+        "price": "£ 4.70",
         "description":
           "Chicken sandwich, served in a bun with salad & sauces of your choice."
       },
       {
         "id": 2,
         "subtitle": "Special Chicken Sandwich",
-        "price": "£ 5.95",
+        "price": "£ 6.70",
         "description":
           "Special chicken sandwich served with doner, served in a bun with salad & sauces of your choice."
       },
       {
         "id": 3,
         "subtitle": "Hawaiian Chicken Sandwich",
-        "price": "£ 5.95",
+        "price": "£ 5.70",
         "description":
           "Chicken sandwich with pineapple & cheese, served in a bun with salad & sauces of your choice."
       },
       {
         "id": 4,
         "subtitle": "Chicken Nuggets",
-        "price": "£ 5.95",
+        "price": "£ 4.00",
         "description": "Available as 8pcs."
       },
       {
         "id": 5,
         "subtitle": "Chicken Nuggets & Chips",
-        "price": "£ 5.95",
+        "price": "£ 6.00",
         "description": "Available as 8pcs."
       },
       {
         "id": 6,
         "subtitle": "Grill Chicken Burger",
-        "price": "£ 5.95",
+        "price": "£ 4.70",
         "description":
           "Grill chicken burger, served with sauce & salad of your choice."
       },
       {
         "id": 7,
         "subtitle": "Chicken Salad",
-        "price": "£ 5.95",
+        "price": "£ 6.50",
         "description":
           "Chicken sandwich, served in a bun with salad & sauces of your choice."
       }
@@ -120,7 +120,7 @@
               {
                 "id": 2,
                 "subtitle": "1/2lb Burger Meal",
-                "price": "£ 5.95",
+                "price": "£ 7.95",
                 "description": "1/2lb beef/cheese burger, fries & can of drink."
               },
               {
@@ -132,34 +132,34 @@
               {
                 "id": 4,
                 "subtitle": "Chicken Burger Meal",
-                "price": "£ 5.95",
+                "price": "£ 6.95",
                 "description": "Chicken burger, fries & can of drink."
               },
               {
                 "id": 5,
                 "subtitle": "Regular Lamb Doner Meal",
-                "price": "£ 5.95",
+                "price": "£ 8.50",
                 "description":
                   "Regular lamb doner kebab or doner wrap, fries & can of drink."
               },
               {
                 "id": 6,
                 "subtitle": "Regular Chicken Doner Meal",
-                "price": "£ 5.95",
+                "price": "£ 8.50",
                 "description":
                   "Regular chicken doner kebab or doner wrap, fries & can of drink."
               },
               {
                 "id": 7,
                 "subtitle": "Supreme Mix Grill",
-                "price": "£ 5.95",
+                "price": "£ 24.95",
                 "description":
                   "Lamb doner, chicken shish, lamb shish, kofte shish, 2 x pittas, 2 x fries, hummus, salad, 2 x can drinks."
               },
               {
                 "id": 8,
                 "subtitle": "Mega Supreme",
-                "price": "£ 5.95",
+                "price": "£ 29.95",
                 "description":
                   "Lamb doner, chicken doner, chicken shish, lamb shish, kofte shish, 3 x pittas, 3 x fries, hummus, 2 x salad, 3 x can drinks."
               }
@@ -172,24 +172,24 @@
               {
                 "id": 1,
                 "subtitle": "Fries",
-                "price": "£ 5.95",
+                "price": "£ 2.00",
                 "description": "Available as REG, LRG"
               },
               {
                 "id": 2,
                 "subtitle": "Cheesy Fries",
-                "price": "£ 5.95",
+                "price": "£ 2.95",
                 "description": "Available as REG, LRG"
               },
               {
                 "id": 3,
                 "subtitle": "Fries Wrap",
-                "price": "£ 5.95"
+                "price": "£ 3.00"
               },
               {
                 "id": 4,
                 "subtitle": "Chicken Burger Meal",
-                "price": "£ 5.95"
+                "price": "£ 3.95"
               }
             ]
   },
@@ -200,37 +200,37 @@
               {
                 "id": 1,
                 "subtitle": "Lamb Doner",
-                "price": "£ 5.95",
+                "price": "£ 6.00",
                 "description": "Available as REG, LRG"
               },
               {
                 "id": 2,
                 "subtitle": "Chicken Doner",
-                "price": "£ 5.95",
+                "price": "£ 7.95",
                 "description": "Available as REG, LRG"
               },
               {
                 "id": 3,
                 "subtitle": "Mix Doner",
-                "price": "£ 5.95"
+                "price": "£ 8.00"
               
               },
               {
                 "id": 4,
                 "subtitle": "Box of Meat",
-                "price": "£ 5.95",
+                "price": "£ 5.00",
                 "description": "Available as REG, LRG"
               },
               {
                 "id": 5,
                 "subtitle": "German Lamb Doner Sandwich",
-                "price": "£ 5.95"
+                "price": "£ 7.50"
         
               },
               {
                 "id": 6,
                 "subtitle": "German Chicken Doner Sandwich",
-                "price": "£ 5.95",
+                "price": "£ 7.50",
                 "'description'":
                   "Regular chicken doner kebab or doner wrap, fries & can of drink."
               }
@@ -243,83 +243,83 @@
               {
                 "id": 1,
                 "subtitle": "Mozzarella Sticks",
-                "price": "£ 5.95",
+                "price": "£ 4.95",
                 "description": "Available as 6pcs"
               },
               {
                 "id": 2,
                 "subtitle": "Onion Rings",
-                "price": "£ 5.95",
+                "price": "£ 3.00",
                 
                 "description": "Available as 10pcs"
               },
               {
                 "id": 3,
                 "subtitle": "Side Salad",
-                "price": "£ 5.95"             
+                "price": "£ 2.50"             
               },
               {
                 "id": 4,
                 "subtitle": "Hummus",
-                "price": "£ 5.95",
+                "price": "£ 2.50",
                 "description": "Available as REG, LRG"
               },
               {
                 "id": 5,
-                "price": "£ 5.95",
+                "price": "£ 5.00",
                 "subtitle": "Halloumi"
              
               },
               {
                 "id": 6,
                 "subtitle": "Potato Wedges",
-                "price": "£ 5.95",
+                "price": "£ 3.95",
                 "description":
                   "Regular chicken doner kebab or doner wrap, fries & can of drink."
               },
               {
                 "id": 7,
-                "price": "£ 5.95",
+                "price": "£ 0.50",
                 "subtitle": "Cacik"
               },
               {
                 "id": 8,
-                "price": "£ 5.95",
+                "price": "£ 1.00",
                 "subtitle": "Pitta Bread"
               },
               {
                 "id": 9,
-                "price": "£ 5.95",
+                "price": "£ 1.00",
                 "subtitle": "Wrap"
               },
               {
                 "id": 10,
-                "price": "£ 5.95",
+                "price": "£ 0.50",
                 "subtitle": "Pot of Chilli Sauce"
               },
               {
                 "id": 11,
-                "price": "£ 5.95",
+                "price": "£ 0.50",
                 "subtitle": "Pot of Garlic Sauce"
               },
               {
                 "id": 12,
-                "price": "£ 5.95",
+                "price": "£ 0.50",
                 "subtitle": "Pot of Ketchup"
               },
               {
                 "id": 13,
-                "price": "£ 5.95",
+                "price": "£ 0.50",
                 "subtitle": "Pot of Mayonnaise"
               },
               {
                 "id": 14,
-                "price": "£ 5.95",
+                "price": "£ 0.50",
                 "subtitle": "Pot of BBQ Sauce"
               },
               {
                 "id": 15,
-                "price": "£ 5.95",
+                "price": "£ 0.50",
                 "subtitle": "Pot of Yoghurt Mint"
               }
             ]
@@ -331,42 +331,42 @@
               {
                 "id": 1,
                 "subtitle": "Chicken Shish",
-                "price": "£ 5.95",
+                "price": "£ 6.50",
                 "description":
                   "Available as REG, LRG, WRAP Marinated fillets of chicken cooked on a charcoal grill. Served in a pitta bread with salad & sauces of your choice."
               },
               {
                 "id": 2,
                 "subtitle": "Lamb Shish",
-                "price": "£ 5.95",
+                "price": "£ 7.50",
                 "description":
                   "Available as REG, LRG, WRAP Marinated fillets of lamb cooked on a charcoal grill. Served in a pitta bread with salad & sauces of your choice."
               },
               {
                 "id": 3,
                 "subtitle": "Kofte Kebab",
-                "price": "£ 5.95",
+                "price": "£ 6.50",
                 "description":
                   "Available as REG, LRG, WRAP Mince meat with finely chopped onion, peppers & seasoning cooked on a charcoal grill, served in a pitta bread with salad & a sauce of your choice."
               },
               {
                 "id": 4,
                 "subtitle": "Veggie Kebab",
-                "price": "£ 5.95",
+                "price": "£ 6.50",
                 "description":
                   "Available as WRAP Veggie kebab, served in a pitta bread with salad & sauces of your choice."
               },
               {
                 "id": 5,
                 "subtitle": "Combo Kebab",
-                "price": "£ 5.95",
+                "price": "£ 9.50",
                 "description":
                   "Available as WRAP Any two meats of your choice, served with salad & sauces of your choice."
               },
               {
                 "id": 6,
                 "subtitle": "Mixed Kebab",
-                "price": "£ 5.95",
+                "price": "£ 14.95",
                 "description":
                   "Consisting of chicken shish, lamb shish, kofte, lamb doner, served together with a pitta bread, salad & sauces of your choice."
               }
@@ -378,12 +378,12 @@
             "items": [
               {
                 "id": 1,
-                "price": "£ 5.95",
+                "price": "£ 3.50",
                 "subtitle": "Lahmacun with Salad"
               },
               {
                 "id": 2,
-                "price": "£ 5.95",
+                "price": "£ 5.50",
                 "subtitle": "Lahmacun with Doner & Salad"
               }
             ]
@@ -395,42 +395,42 @@
               {
                 "id": 1,
                 "subtitle": "Lamb Doner Wrap",
-                "price": "£ 5.95",
+                "price": "£ 6.00",
                 "description":
                   "Lamb doner, served in a wrap bread with salad & sauces of your choice."
               },
               {
                 "id": 2,
                 "subtitle": "Chicken Doner Wrap",
-                "price": "£ 5.95",
+                "price": "£ 6.00",
                 "description":
                   "Chicken doner, served in a wrap bread with salad & sauces of your choice."
               },
               {
                 "id": 3,
                 "subtitle": "Mixed Doner Wrap",
-                "price": "£ 5.95",
+                "price": "£ 7.00",
                 "description":
                   "Mixed doner, served in a wrap bread with salad & sauces of your choice."
               },
               {
                 "id": 4,
                 "subtitle": "Combo Doner Wrap",
-                "price": "£ 5.95",
+                "price": "£ 7.00",
                 "description":
                   "Vegetabbles & Halloumi, served in a wrap bread with salad & a sauce of your choice."
               },
               {
                 "id": 5,
                 "subtitle": "Vegetables & Halloumi Wrap",
-                "price": "£ 5.95",
+                "price": "£ 6.00",
                 "description":
                   "Vegetabbles & Halloumi, served in a wrap bread with salad & a sauce of your choice."
               },
               {
                 "id": 6,
                 "subtitle": "Falafel & Hummus Wrap",
-                "price": "£ 5.95",
+                "price": "£ 6.00",
                 "description":
                   "Falafel & hummus, served in a wrap bread with salad & a sauce of your choice."
               }
@@ -443,19 +443,19 @@
               {
                 "id": 1,
                 "subtitle": "Kids Nuggets Meal",
-                "price": "£ 5.95",
+                "price": "£ 4.95",
                 "description": "4pcs chicken nuggets, chips & kids drink."
               },
               {
                 "id": 2,
                 "subtitle": "Kids Chicken Doner Meal",
-                "price": "£ 5.95",
+                "price": "£ 4.95",
                 "description": "Kids size chicken doner, chips & kids drink."
               },
               {
                 "id": 3,
                 "subtitle": "Kids Lamb Doner Meal",
-                "price": "£ 5.95",
+                "price": "£ 4.95",
                 "description": "Kids size lamb doner, chips & kids drink."
               }
             ]
@@ -467,21 +467,21 @@
               {
                 "id": 1,
                 "subtitle": "Lamb Doner on Fries",
-                "price": "£ 5.95",
+                "price": "£ 6.00",
                 "description":
                   "Available as REG, LRG Lamb doner with chips, served with sauce and salad of your choice."
               },
               {
                 "id": 2,
                 "subtitle": "Chicken Doner on Fries",
-                "price": "£ 5.95",
+                "price": "£ 6.00",
                 "description":
                   "Available as REG, LRG Chicken doner with chips, served with sauce and salad of your choice."
               },
               {
                 "id": 3,
                 "subtitle": "Mixed Doner on Fries",
-                "price": "£ 5.95",
+                "price": "£ 8.00",
                 "description":
                   "Mixed doner with chips, served with sauce and salad of your choice."
               }
@@ -494,92 +494,92 @@
               {
                 "id": 1,
                 "subtitle": "Coke",
-                "price": "£ 5.95",
+                "price": "£ 1.20",
                 "description": "Available as 330ml"
               },
               {
                 "id": 2,
                 "subtitle": "Diet Coke",
-                "price": "£ 5.95",
+                "price": "£ 1.20",
                 "description": "Available as 330ml"
               },
               {
                 "id": 3,
                 "subtitle": "Coke Zero",
-                "price": "£ 5.95",
+                "price": "£ 1.20",
                 "description": "Available as 330ml"
               },
               {
                 "id": 4,
                 "subtitle": "Fanta",
-                "price": "£ 5.95",
+                "price": "£ 1.20",
                 "description": "Available as 330ml"
               },
               {
                 "id": 5,
                 "subtitle": "Dr Pepper",
-                "price": "£ 5.95",
+                "price": "£ 1.20",
                 "description": "Available as 330ml"
               },
               {
                 "id": 6,
                 "subtitle": "Sprite",
-                "price": "£ 5.95",
+                "price": "£ 1.20",
                 "description": "Available as 330ml"
               },
               {
                 "id": 7,
                 "subtitle": "Rio",
-                "price": "£ 5.95",
+                "price": "£ 1.20",
                 "description": "Available as 330ml"
               },
               {
                 "id": 8,
                 "subtitle": "Ayran",
-                "price": "£ 5.95",
+                "price": "£ 1.00",
                 "description": "Available as 330ml"
               },
               {
                 "id": 9,
                 "subtitle": "Mineral Water",
-                "price": "£ 5.95",
+                "price": "£ 1.20",
                 "description": "Available as 330ml"
               },
               {
                 "id": 10,
                 "subtitle": "Sparkling Water",
-                "price": "£ 5.95",
+                "price": "£ 1.20",
                 "description":
                   "Available as 3/4 Triple beef burger, served in a bun with salad & sauces of your choice."
               },
               {
                 "id": 11,
-                "price": "£ 5.95",
+                "price": "£ 2.50",
                 "subtitle": "American Apple Pie"
               },
               {
                 "id": 12,
-                "price": "£ 5.95",
+                "price": "£ 2.95",
                 "subtitle": "Chocolate Fudge Cake"
               },
               {
                 "id": 13,
-                "price": "£ 5.95",
+                "price": "£ 3.95",
                 "subtitle": "Baklava"
               },
               {
                 "id": 14,
-                "price": "£ 5.95",
+                "price": "£ 6.00",
                 "subtitle": "Ben & Jerry Cookie Dough Ice Cream"
               },
               {
                 "id": 15,
-                "price": "£ 5.95",
+                "price": "£ 6.00",
                 "subtitle": "Ben & Jerry Phish Food Ice Cream"
               },
               {
                 "id": 16,
-                "price": "£ 5.95",
+                "price": "£ 6.00",
                 "subtitle": "Ben & Jerry Chocolate Ice Cream"
               }
             ]
@@ -591,28 +591,28 @@
               {
                 "id": 1,
                 "subtitle": "Beef Burger",
-                "price": "£ 5.95",
+                "price": "£ 3.70",
                 "description":
                   "Available as 1/4lb, 1/2lb 1/4lb beef burger served in a bun with salad & sauces of your choice."
               },
               {
                 "id": 2,
                 "subtitle": "Cheese Burger",
-                "price": "£ 5.95",
+                "price": "£ 3.95",
                 "description":
                   "Available as 1/4lb, 1/2lb 1/4lb beef burger served in a bun with salad & sauces of your choice."
               },
               {
                 "id": 3,
                 "subtitle": "Hawaiian Burger",
-                "price": "£ 5.95",
+                "price": "£ 4.95",
                 "description":
                   "Available as 1/4lb, 1/2lb 1/4lb beef burger with pineapple, served in a bun with salad & sauces of your choice."
               },
               {
                 "id": 4,
                 "subtitle": "Chilli Burger",
-                "price": "£ 5.95",
+                "price": "£ 4.20",
                 "description":
                   "Available as 1/4lb, 1/2lb 1/4lb chilli burger, served in a bun with salad & sauces of your choice."
               },
@@ -626,7 +626,7 @@
               {
                 "id": 6,
                 "subtitle": "Mega Burger (Triple Burger)",
-                "price": "£ 5.95",
+                "price": "£ 7.50",
                 "description":
                   "Available as 3/4 Triple beef burger, served in a bun with salad & sauces of your choice."
               }
@@ -639,25 +639,25 @@
               {
                 "id": 1,
                 "subtitle": "Veggie Burger",
-                "price": "£ 5.95",
+                "price": "£ 3.50",
                 "description":
                   "Veggie burger served in a bun with salad & sauces of your choice."
               },
               {
                 "id": 2,
-                "price": "£ 5.95",
+                "price": "£ 6.50",
                 "subtitle": "Veggie Kebab"
                 
               },
               {
                 "id": 3,
-                "price": "£ 5.95",
+                "price": "£ 3.50",
                 "subtitle": "Halloumi Burger"
               
               },
               {
                 "id": 4,
-                "price": "£ 5.95",
+                "price": "£ 3.50",
                 "subtitle": "Salad in Bread"
                 
               }

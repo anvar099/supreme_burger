@@ -4,10 +4,10 @@
 
 // const FoodPropertyCard = styled.div`
 // 	height: 100%;
-// 	margin: auto;
+// 	// margin: auto;
+//   border: 2px solid red;
 // 	margin-bottom: 60px;
 // 	align-content: center;
-
 // 	height: 130px;
 // 	display: flex;
 // 	flex-wrap: wrap;
