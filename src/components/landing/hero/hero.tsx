@@ -14,7 +14,7 @@ const foods: IFood[] = [
 		imgURL: burger,
 		content: (
 			<>
-				CHEESE <br /> BIG BURGER
+				SUPREME <br /> BURGER
 			</>
 		),
 		price: 12,
@@ -23,7 +23,7 @@ const foods: IFood[] = [
 		imgURL: pizza,
 		content: (
 			<>
-				SICILIAN <br /> PIZZA
+				MEGA <br /> BURGER
 			</>
 		),
 		price: 32,
@@ -32,7 +32,7 @@ const foods: IFood[] = [
 		imgURL: sandwich,
 		content: (
 			<>
-				BREAKFAST <br /> SANDWICH
+				COMBO DONAR <br /> WRAP
 			</>
 		),
 		price: 22,
@@ -61,7 +61,7 @@ const Hero: FC<{}> = () => {
 					{content}
 				</h1>
 				<div id="hero-slider-title">
-					<a key={idx} href="#in" className="hero__btn animate__bounceIn">
+					<a key={idx} href="#section_menu" className="hero__btn animate__bounceIn">
 						View Menu
 					</a>
 					<div className="hero__control-slider flex ">

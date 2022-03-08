@@ -29,7 +29,7 @@ const AddressCard = ({id}) => {
 				</div>
 				<div className="addressBtn">
 					<a href={card?.linkLocation} className="addressBtnLink">
-						View in map{' '}
+						View in map
 					</a>
 				</div>
 			</div>

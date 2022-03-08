@@ -38,17 +38,17 @@ const NavBar: FC<{bgColor?: string}> = ({bgColor = '#000'}) => {
 							</Link>
 						</li>
 						<li className="nav__item">
-							<Link to="/menu" className="nav__link">
-								Meals
-							</Link>
+							<a href="#section_menu" className="nav__link">
+								Menu
+							</a>
 						</li>
 						<li className="nav__item">
-							<a href={link} className="nav__link">
+							<a href="#section_branch" className="nav__link">
 								Branches 
 							</a>
 						</li>
 						<li className="nav__item">
-							<a href={link} className="nav__link">
+							<a href="#section_about" className="nav__link">
 								About Us
 							</a>
 						</li>
@@ -73,14 +73,6 @@ const NavBar: FC<{bgColor?: string}> = ({bgColor = '#000'}) => {
 						<a href="tel:+01 895 233 989" className="header__number">
 							<img src={phone} alt="" /> +01 895 233 989
 						</a>
-						<div className="header__language">
-							<select name="language" id="language">
-								<option value="en">ENG</option>
-								<option value="ru">RUS</option>
-								<option value="uz">UZB</option>
-							</select>
-							<img src={dropdown} alt="" />
-						</div>
 					</div>
 				</nav>
 				<a href={link} id="opener-nav" onClick={() => setShowNav(true)}>

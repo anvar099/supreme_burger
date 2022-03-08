@@ -1,0 +1,38 @@
+.menu-gallery {
+  height: auto;
+  width: 80%;
+  margin: 0 auto;
+}
+.menu-gallery-card1{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border-radius: 12px;
+  margin: 0 auto;
+}
+.menu-gallery-card2{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  
+}
+.menu-gallery-img1 {
+  width: 490px;
+  height: 250px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.menu-gallery-img2 {
+  width: 320px;
+  height: 190px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.gallery-img {
+  width: 100%;
+  border-radius: 12px;
+  height: 100%;
+  object-fit: cover;
+}

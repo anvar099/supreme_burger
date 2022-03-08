@@ -8,7 +8,7 @@ const OurBranches = () => {
 	const [active, setActive] = useState(4)
 	return (
 		<>
-			<div className="branchContainer">
+			<div className="branchContainer" id="section_branch">
 				<div className="branchTitle">Our Branches</div>
 				<div className="branchContent">
 					<div className="branchRow">

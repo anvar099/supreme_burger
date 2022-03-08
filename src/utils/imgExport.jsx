@@ -10,7 +10,7 @@ export {default as back4} from '../assets/images/aboute-us/vector4.svg'
 //   menu imgs
 export {default as burger} from '../assets/images/food-properties-imgs/burger.png'
 export {default as sendwich} from '../assets/images/food-properties-imgs/sendwich.png'
-export {default as pizza} from '../assets/images/food-properties-imgs/pizza.png'
+export {default as pizza} from '../assets/images/food-properties-imgs/pizza1.png'
 
 //   menu category imgs
 export {default as burgerC} from '../assets/images/food-properties-imgs/category-img/butger.png'

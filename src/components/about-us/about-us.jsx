@@ -5,7 +5,7 @@ import {AboutAs as About} from './style'
 export default class AboutUs extends Component {
 	render() {
 		return (
-			<About>
+			<About id="section_about">
 				<h1>About Us</h1>
 				<div className="grid">
 					<div>
