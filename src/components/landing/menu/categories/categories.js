@@ -6,7 +6,7 @@ import img1 from '../../../../assets/images/food/food-category-imgs/001-burger.s
 
 
 import React, {useState} from 'react'
-
+import HorizontalScroll from 'react-scroll-horizontal'
 import data from '../../../mock/menuApi.json'
 import FoodPropertyCard from '../food-properties/food-properties'
 
@@ -21,7 +21,9 @@ const Categories = () => {
 							return (
 								<div key={i} className="menu-content">
 									<div className="section" key={menugoods?.keyId}>
-										<div onClick={() => setActive(menugoods)}>
+										<div
+											onClick={() => setActive(menugoods)}
+										>
 											<img src={img1} alt="icon" />
 											<p>{menugoods?.title}</p>
 										</div>
